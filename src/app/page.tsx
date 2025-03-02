@@ -54,7 +54,7 @@ export default async function Home() {
             ) : (
               <div className="flex flex-col sm:flex-row gap-4 w-full sm:w-auto">
                 <Link
-                  href="/private"
+                  href="/dashboard"
                   className="w-full sm:w-auto px-8 py-3 bg-blue-600 text-white font-medium rounded-lg 
                   hover:bg-blue-700 transform hover:scale-105 transition-all duration-200 
                   shadow-lg hover:shadow-blue-500/25 flex items-center justify-center gap-2"
